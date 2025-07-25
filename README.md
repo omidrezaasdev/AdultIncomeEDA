@@ -1,4 +1,4 @@
-Adult Income - Exploratory Data Analysis (EDA) Project
+
 Project Overview
 This project focuses on performing a comprehensive Exploratory Data Analysis (EDA) on the "Adult Census Income" dataset from Kaggle. The primary goal is to understand the underlying patterns, relationships, and key insights within the data that could influence an individual's income level, ultimately laying the groundwork for a future predictive modeling (classification) task.
 
